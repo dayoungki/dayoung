@@ -6,22 +6,19 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Dayoung Ki | Frontend Developer`,
+    author: `Dayoung Ki`,
+    description: `resume`,
+    siteUrl: `https://github.com/dayoung`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `Dayoung Ki`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Dayoung Ki | Frontend Developer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

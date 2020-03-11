@@ -1,13 +1,11 @@
 import React from 'react';
 import {
   Header,
-  Summary,
   Experience,
   Projects,
   Skills,
   List,
   Education,
-  Footer,
   SEO
 } from '../components';
 import resume from '../../data/profile';
@@ -22,7 +20,6 @@ const Home = () => (
         name={resume.fullname}
         role={resume.role}
       />
-      <Summary data={resume.summary} />
       <div className="border-b border-neutral-300 pb-2 my-5 lg:flex">
         <div className="lg:w-2/3 lg:pr-8">
           {resume.experience && <Experience data={resume.experience} />}
@@ -37,7 +34,6 @@ const Home = () => (
             ))}
         </div>
       </div>
-      <Footer social={resume.social} />
     </div>
   </main>
 );
