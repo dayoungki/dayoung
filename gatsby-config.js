@@ -6,6 +6,7 @@
 
 module.exports = {
   siteMetadata: {
+    pathPrefix: "/dayoung",
     title: `Dayoung Ki | Frontend Developer`,
     author: `Dayoung Ki`,
     description: `resume`,
