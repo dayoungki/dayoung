@@ -10,7 +10,7 @@ import candyone from "./../img/candyone.png"
 import wait from "./../img/wait.jpeg"
 import wait2 from "./../img/wait2.jpeg"
 import ad15 from "./../img/adfi15.png"
-import ad10 from "./a../img/ad10.jpeg"
+import ad10 from "./../img/ad10.jpeg"
 
 const Projects = ({ data }) => (
   <section>
