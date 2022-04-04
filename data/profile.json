@@ -148,61 +148,61 @@
     {
       "name": "ORDER.Fi 1.6",
       "company": "(주)단비코리아",
-      "description": "앱 설치를 하지 않고 유무선 공유기를 통한 매장내 주문관리 플랫폼 어드민 (React - Web Frond-end: 참여율 70%)",
+      "description": "앱 설치를 하지 않고 유무선 공유기를 통한 매장내 주문관리 플랫폼 어드민 (React - Web Frond-end)",
       "imgIndex": 10
     },
     {
       "name": "AD.Fi 1.5",
       "company": "(주)단비코리아",
-      "description": "단비 광고 시스템 AD.Fi 1.0 버전 업 (javascript - Web Frond-end: 참여율 90%, MySQL Back-end: 참여율 90%)",
+      "description": "단비 광고 시스템 AD.Fi 1.0 버전 업 (javascript - Web Frond-end, MySQL Back-end)",
       "imgIndex": 9
     },
     {
       "name": "WAIT.Fi",
       "company": "(주)단비코리아",
-      "description": "단비 웨이팅 시스템을 관리하기 위한 어드민과 WAIT.Fi 플랫폼 (React - Web Front-end: 참여율 50%, MySQL Back-end: 참여율 : 50%)",
+      "description": "단비 웨이팅 시스템을 관리하기 위한 어드민과 WAIT.Fi 플랫폼 (React - Web Front-end, MySQL Back-end)",
       "imgIndex": 8
     },
     {
       "name": "ORDER.Fi",
       "company": "(주)단비코리아",
-      "description": "앱 설치를 하지 않고 유무선 공유기를 통한 매장내 주문관리 플랫폼과 어드민(javascript-Web Front-end: 참여율 90%)",
+      "description": "앱 설치를 하지 않고 유무선 공유기를 통한 매장내 주문관리 플랫폼과 어드민(javascript-Web Front-end)",
       "imgIndex": 7
     },
     {
       "name": "Firmware",
       "company": "(주)단비코리아",
-      "description": "OpenWrt 기반의 유무선 공유기에 접속했을때 nodogsplash를 통해 인터넷을 제어하기 위한 시스템 (C: 참여율 70%)",
+      "description": "OpenWrt 기반의 유무선 공유기에 접속했을때 nodogsplash를 통해 인터넷을 제어하기 위한 시스템 (C)",
       "imgIndex": 6
     },
     {
       "name": "PAYCOOP",
       "company": "외주",
-      "description": "SNS 사용자들을 타겟으로 한 웹 쇼핑몰 (React - Web Front-end: 참여율 95%)",
+      "description": "SNS 사용자들을 타겟으로 한 웹 쇼핑몰 (React - Web Front-end)",
       "imgIndex": 5
     },
     {
       "name": "KIOSK",
       "company": "(주)단비코리아",
-      "description": "제주도를 방문하는 해외 여행객들을 위한 무인 티켓 발권 앱 (JAVA - Android App: 참여율 100%, React - Web: Front-end: 참여율 100%)",
+      "description": "제주도를 방문하는 해외 여행객들을 위한 무인 티켓 발권 앱 (JAVA - Android App, React - Web: Front-end)",
       "imgIndex": 4
     },
     {
       "name": "sQrap",
       "company": "외주",
-      "description": "주요 커뮤니티 게시판과 뉴스들을 편리하게 모아볼 수 있는 앱 (React Native - Android App, iOS App: 참여율 100%, web Front-end: 70%)",
+      "description": "주요 커뮤니티 게시판과 뉴스들을 편리하게 모아볼 수 있는 앱 (React Native - Android App, iOS App, web Front-end)",
       "imgIndex": 3
     },
     {
       "name": "AD.Fi 1.0",
       "company": "(주)단비코리아",
-      "description": "단비 광고 시스템을 관리하기 위한 어드민과 AD.Fi 플랫폼 (React - Web Front-end: 참여율 90% )",
+      "description": "단비 광고 시스템을 관리하기 위한 어드민과 AD.Fi 플랫폼 (React - Web Front-end )",
       "imgIndex": 2
     },
     {
       "name": "CANDYONE",
       "company": "외주",
-      "description": "10대들을 위한 쇼핑몰 앱 (JAVA - Android App: 참여율 100%)",
+      "description": "10대들을 위한 쇼핑몰 앱 (JAVA - Android App)",
       "imgIndex": 1
     }
   ],
